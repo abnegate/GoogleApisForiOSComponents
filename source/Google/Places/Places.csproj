@@ -10,14 +10,15 @@
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <ProcessEnums>true</ProcessEnums>
+    <Description>C# bindings for Google APIs Places iOS Library updated to support Firebase v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Google.iOS.Places</PackageId>
+    <PackageId>MEA.Google.iOS.Places</PackageId>
     <Title>Google APIs Places iOS Library</Title>
     <Summary>C# bindings for Google APIs Places iOS Library</Summary>
     <Description>C# bindings for Google APIs Places iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>googleiosplaces_128x128.png</PackageIcon>

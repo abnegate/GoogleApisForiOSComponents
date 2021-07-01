@@ -10,14 +10,15 @@
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <ProcessEnums>true</ProcessEnums>
+    <Description>C# bindings for Firebase APIs Analytics iOS Library updated to v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Firebase.iOS.Analytics</PackageId>
+    <PackageId>MEA.Firebase.iOS.Analytics</PackageId>
     <Title>Firebase APIs Analytics iOS Library</Title>
     <Summary>C# bindings for Firebase APIs Analytics iOS Library</Summary>
     <Description>C# bindings for Firebase APIs Analytics iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>firebaseiosanalytics_128x128.png</PackageIcon>

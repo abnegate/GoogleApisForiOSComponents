@@ -9,14 +9,15 @@
     <FileVersion>8.2.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Firebase APIs In-App Messaging iOS Library updated to v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Firebase.iOS.InAppMessaging</PackageId>
+    <PackageId>MEA.Firebase.iOS.InAppMessaging</PackageId>
     <Title>Firebase APIs In-App Messaging iOS Library</Title>
     <Summary>C# bindings for Firebase APIs In-App Messaging iOS Library</Summary>
     <Description>C# bindings for Firebase APIs In-App Messaging iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>firebaseiosinappmessaging_128x128.png</PackageIcon>

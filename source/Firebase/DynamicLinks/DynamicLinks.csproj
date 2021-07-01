@@ -9,14 +9,15 @@
     <FileVersion>8.2.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Firebase APIs Dynamic Links iOS Library updated to v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Firebase.iOS.DynamicLinks</PackageId>
+    <PackageId>MEA.Firebase.iOS.DynamicLinks</PackageId>
     <Title>Firebase APIs Dynamic Links iOS Library</Title>
     <Summary>C# bindings for Firebase APIs Dynamic Links iOS Library</Summary>
     <Description>C# bindings for Firebase APIs Dynamic Links iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>firebaseiosdynamiclinks_128x128.png</PackageIcon>

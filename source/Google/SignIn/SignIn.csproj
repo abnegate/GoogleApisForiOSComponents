@@ -9,14 +9,15 @@
     <FileVersion>5.0.2.2</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Google APIs Sign In iOS Library updated to support Firebase v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Google.iOS.SignIn</PackageId>
+    <PackageId>MEA.Google.iOS.SignIn</PackageId>
     <Title>Google APIs Sign In iOS Library</Title>
     <Summary>C# bindings for Google APIs Sign In iOS Library</Summary>
     <Description>C# bindings for Google APIs Sign In iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>googleiossignin_128x128.png</PackageIcon>

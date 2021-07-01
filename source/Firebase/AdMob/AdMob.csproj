@@ -10,14 +10,15 @@
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <IncludeBuildOutput>false</IncludeBuildOutput>
+    <Description>C# bindings for Firebase APIs AdMob iOS Library updated to v8+</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Firebase.iOS.AdMob</PackageId>
+    <PackageId>MEA.Firebase.iOS.AdMob</PackageId>
     <Title>Firebase APIs AdMob iOS Library</Title>
     <Summary>C# bindings for Firebase APIs AdMob iOS Library</Summary>
     <Description>C# bindings for Firebase APIs AdMob iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>firebaseiosadmob_128x128.png</PackageIcon>

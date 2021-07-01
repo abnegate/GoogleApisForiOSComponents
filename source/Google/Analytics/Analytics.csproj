@@ -9,14 +9,15 @@
     <FileVersion>3.17.0.7</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Google APIs Analytics iOS Library updated to support Firebase v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Google.iOS.Analytics</PackageId>
+    <PackageId>MEA.Google.iOS.Analytics</PackageId>
     <Title>Google APIs Analytics iOS Library</Title>
     <Summary>C# bindings for Google APIs Analytics iOS Library</Summary>
     <Description>C# bindings for Google APIs Analytics iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>googleiosanalytics_128x128.png</PackageIcon>

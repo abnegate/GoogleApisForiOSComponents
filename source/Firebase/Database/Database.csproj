@@ -9,14 +9,15 @@
     <FileVersion>8.2.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Firebase APIs Database iOS Library updated to v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Firebase.iOS.Database</PackageId>
+    <PackageId>MEA.Firebase.iOS.Database</PackageId>
     <Title>Firebase APIs Database iOS Library</Title>
     <Summary>C# bindings for Firebase APIs Database iOS Library</Summary>
     <Description>C# bindings for Firebase APIs Database iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>firebaseiosdatabase_128x128.png</PackageIcon>

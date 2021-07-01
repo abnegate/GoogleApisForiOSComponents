@@ -9,14 +9,15 @@
     <FileVersion>8.2.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Firebase APIs Auth iOS Library updated to v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Firebase.iOS.Auth</PackageId>
+    <PackageId>MEA.Firebase.iOS.Auth</PackageId>
     <Title>Firebase APIs Auth iOS Library</Title>
     <Summary>C# bindings for Firebase APIs Auth iOS Library</Summary>
     <Description>C# bindings for Firebase APIs Auth iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>firebaseiosauth_128x128.png</PackageIcon>

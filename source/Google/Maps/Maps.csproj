@@ -9,14 +9,15 @@
     <FileVersion>5.0.0.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Google APIs Maps iOS Library updated to support Firebase v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Google.iOS.Maps</PackageId>
+    <PackageId>MEA.Google.iOS.Maps</PackageId>
     <Title>Google APIs Maps iOS Library</Title>
     <Summary>C# bindings for Google APIs Maps iOS Library</Summary>
     <Description>C# bindings for Google APIs Maps iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>googleiosmaps_128x128.png</PackageIcon>

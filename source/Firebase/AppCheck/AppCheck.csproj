@@ -9,14 +9,15 @@
     <FileVersion>8.2.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Firebase APIs App Check iOS Library updated to v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Firebase.iOS.AppCheck</PackageId>
+    <PackageId>MEA.Firebase.iOS.AppCheck</PackageId>
     <Title>Firebase APIs App Check iOS Library</Title>
     <Summary>C# bindings for Firebase APIs App Check iOS Library</Summary>
     <Description>C# bindings for Firebase APIs App Check iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>firebaseiosappcheck_128x128.png</PackageIcon>

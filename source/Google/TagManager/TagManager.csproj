@@ -9,14 +9,15 @@
     <FileVersion>7.3.1.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Description>C# bindings for Google APIs Tag Manager iOS Library updated to support Firebase v8+.</Description>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Xamarin.Google.iOS.TagManager</PackageId>
+    <PackageId>MEA.Google.iOS.TagManager</PackageId>
     <Title>Google APIs Tag Manager iOS Library</Title>
     <Summary>C# bindings for Google APIs Tag Manager iOS Library</Summary>
     <Description>C# bindings for Google APIs Tag Manager iOS Library</Description>
-    <Authors>Microsoft</Authors>
+    <Authors>Jake Barnby</Authors>
     <Owners>Microsoft</Owners>
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageIcon>googleiostagmanager_128x128.png</PackageIcon>
